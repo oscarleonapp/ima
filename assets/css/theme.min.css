@@ -1,5 +1,62 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,500&display=swap");
+
+@font-face {
+  font-family: "Bold Finger";
+  src: url("../fonts/font-ima/BOLDFINGER.TTF") format("truetype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Calyana Personal";
+  src: url("../fonts/font-ima/CalyanaPersonalUseOnly.ttf") format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Heavitas";
+  src: url("../fonts/font-ima/Heavitas.ttf") format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Nexa Black Italic";
+  src: url("../fonts/font-ima/NexaBlackItalic.otf") format("truetype");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Nexa Thin Italic";
+  src: url("../fonts/font-ima/NexaThinItalic.otf") format("truetype");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Nexa Bold Italic";
+  src: url("../fonts/font-ima/NexaXBoldItalic.otf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Nexa Extra Light";
+  src: url("../fonts/font-ima/Nexa-ExtraLight.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Nexa Heavy";
+  src: url("../fonts/font-ima/Nexa-Heavy.ttf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Nexa Bold";
+  src: url("../fonts/font-ima/NexaBold.otf") format("truetype");
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Nexa Light";
+  src: url("../fonts/font-ima/NexaLight.otf") format("truetype");
+  font-weight: 700;
+}
+
 .text-reset:hover {
   color: #EA1D76 !important;
 }
